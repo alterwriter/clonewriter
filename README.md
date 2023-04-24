@@ -1,4 +1,4 @@
-![header](https://i.imgur.com/5R1BJwB.png)
+![header](https://i.imgur.com/OAiDR8E.png)
 # Hello! I'm [Clone Writer](https://github.com/clonewriter) 👋
 
 I'm a DevOps Engineer, SRE Engineer, Forensics Engineer, and OSINT Engineer. I specialize in Docker, Ansible, Python programming, and Bash scripting. 
